@@ -149,7 +149,10 @@
 }
 .sidebar li .home-button{
   background: #FFF;
-  color: #11101d;
+}
+.sidebar li .home-button .links_name,
+.sidebar li .home-button i{
+  color: #11101D;
 }
 .sidebar li a .links_name{
   color: #fff;
